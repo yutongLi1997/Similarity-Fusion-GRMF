@@ -1,5 +1,5 @@
 # Similarity-Fusion-GRMF
-This repository contains the code for the LOD-2022 conference paper: A Matrix Factorization-based Drug-virus Link Prediction Method for SARS-CoV-2 Drug Prioritization.
+This repository contains the code for the LOD-2022 conference paper: [A Matrix Factorization-based Drug-virus Link Prediction Method for SARS-CoV-2 Drug Prioritization](https://link.springer.com/chapter/10.1007/978-3-031-25599-1_4).
 
 
 ![The pipeline of this project is showed as follows:](https://github.com/yutongLi1997/Similarity-Fusion-GRMF/blob/main/grmf_flowchart.png)
@@ -15,4 +15,15 @@ The DVA dataset used in this work is available at https://github.com/aanchalMong
 The code was tested in Python 3.8.
 
 ## Cite us
+Li, Yutong, Xiaorui Xu, and Sophia Tsoka. "A Matrix Factorization-Based Drug-Virus Link Prediction Method for SARS-CoV-2 Drug Prioritization." International Conference on Machine Learning, Optimization, and Data Science. Cham: Springer Nature Switzerland, 2022.
 
+```
+@inproceedings{li2022matrix,
+  title={A Matrix Factorization-Based Drug-Virus Link Prediction Method for SARS-CoV-2 Drug Prioritization},
+  author={Li, Yutong and Xu, Xiaorui and Tsoka, Sophia},
+  booktitle={International Conference on Machine Learning, Optimization, and Data Science},
+  pages={35--47},
+  year={2022},
+  organization={Springer}
+}
+```
